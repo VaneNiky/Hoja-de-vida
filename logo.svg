@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_18_blur">
+   <feGaussianBlur stdDeviation="1.2" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path filter="url(#svg_18_blur)" transform="rotate(-4.43917, 184.988, 232.184)" id="svg_18" d="m59.989441,337.054688l0,-227.220207l0,0c0,-9.653641 9.327782,-17.478439 20.833191,-17.478439l249.997803,0c11.505737,0 20.83316,7.824799 20.83316,17.478439c0,9.653282 -9.327423,17.478317 -20.83316,17.478317l-20.83316,0l0,227.219765c0,9.652069 -9.327301,17.478577 -20.833313,17.478577l-249.997665,0l0,0c-11.50601,0 -20.83287,-7.826508 -20.83287,-17.478577c0,-9.652863 9.32686,-17.477875 20.83287,-17.477875l20.833145,0zm41.666206,-244.698647l0,0c11.50592,0 20.833061,7.824799 20.833061,17.478439c0,9.653282 -9.327141,17.478317 -20.833061,17.478317c-5.753326,0 -10.416573,-3.913063 -10.416573,-8.738274c0,-4.826622 4.663246,-8.740044 10.416573,-8.740044l20.833061,0m208.331726,17.478317l-229.164787,0m-41.666206,209.74189l0,0c5.753105,0 10.41658,3.911652 10.41658,8.738281c0,4.82663 -4.663475,8.739594 -10.41658,8.739594l20.833191,0m-20.833191,17.478577l0,0c11.506248,0 20.833191,-7.826508 20.833191,-17.478577l0,-17.477875" opacity="0.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <text transform="rotate(81.4749, 180.693, 225.136) matrix(1.17182, 0, 0, 1.2011, -153.76, 124.547)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_29" y="91.218838" x="286.566504" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#0000ff">VANESSA</text>
+  <text transform="rotate(4.6015, 243.539, 304.004) matrix(1.34422, 0, 0, 1.16475, -55.7173, -36.6578)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_30" y="300.427178" x="222.711182" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#0000ff">LÓPEZ</text>
+  <path fill-opacity="0" id="svg_31" d="m98,315.610779c41.600006,165.345734 49.651611,-167.610779 49.651611,-167.610779c0,0 29.522583,200.45343 29.522583,200.45343c0,0 128.825806,-20.385101 128.825806,-20.385101c0,0 -208,-12.45755 -208,-12.45755z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#000000"/>
+ </g>
+</svg>
